@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OrdenacaoComFuncaoTroca {
+public class atv494 {
     public static void main(String[] args) {
         int L, c;
         String nome[] = new String[3];
