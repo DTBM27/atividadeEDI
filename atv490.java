@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SubstituirCaractere {
+public class atv490 {
     public static void main(String[] args) {
         String[] nome = new String[10];
         Scanner scanner = new Scanner(System.in);
