@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BuscaBinaria {
+public class atv497 {
     public static void main(String[] args) {
         int L, c, num[] = new int[10], n, aux;
 
