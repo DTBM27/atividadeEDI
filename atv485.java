@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RepetirCaracteres {
+public class atv485 {
     public static void main(String[] args) {
         int[] num = new int[6];
         char[] num1 = new char[6];
