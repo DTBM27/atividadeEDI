@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OrdenacaoDeStrings {
+public class atv495 {
     public static void main(String[] args) {
         int L;
         String nome[][] = new String[5][20];
