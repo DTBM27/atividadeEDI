@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MenuVetorFuncao {
+public class atv499 {
     public static void main(String[] args) {
         int[] num = new int[5];
         int flag = 0;
