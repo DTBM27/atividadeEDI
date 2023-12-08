@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VerificaOrdenacao {
+public class atv493 {
     public static void main(String[] args) {
         int[] num = new int[10];
         Scanner scanner = new Scanner(System.in);
