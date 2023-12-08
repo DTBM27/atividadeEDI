@@ -1,4 +1,4 @@
-public class ProdutoInterno {
+public class atv483 {
     public static void main(String[] args) {
         int[] vetor1 = new int[4];
         int[] vetor2 = new int[4];
