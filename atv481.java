@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-    public class converteBase{
+    public class atv481{
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
